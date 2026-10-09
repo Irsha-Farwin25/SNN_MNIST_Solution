@@ -60,8 +60,8 @@ labels are only used afterwards to name each neuron by the digit it responds to 
 **Requirements:** Python 3.9+ and the packages below. No C++ compiler is needed, because Brian2 runs on its numpy backend.
 
 ```bash
-git clone https://github.com/Irsha-Farwin25/IT5092_SNN_MNIST_Solution.git
-cd IT5092_SNN_MNIST_Solution
+git clone https://github.com/Irsha-Farwin25/SNN_MNIST_Solution.git
+cd SNN_MNIST_Solution
 pip install brian2 scikit-learn matplotlib numpy jupyter
 jupyter notebook IT5092_Assignment_MNIST.ipynb
 ```
